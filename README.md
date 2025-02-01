@@ -1,5 +1,11 @@
 # E-Learning Platform with Adaptive Modules and Performance Tracking
 
+## Some images of the frontend of the website:
+
+![Home Page](https://github.com/user-attachments/assets/3415f6b1-b2ff-4dcd-beca-e27272f1505e)
+![Login Page](https://github.com/user-attachments/assets/61a32c49-f9f4-45e5-92ce-01e2ddb6783f)
+![Register Page](https://github.com/user-attachments/assets/3cf7ab55-c973-4430-8200-b0e0337940c7)
+
 ## Overview
 The E-Learning Platform is a feature-rich web application designed to provide an interactive and personalized learning experience for students, instructors, and administrators. The platform integrates adaptive learning modules, performance tracking, and secure user management to ensure a seamless educational journey. It leverages modern web technologies including NestJS, MongoDB, and Next.js to deliver a robust and scalable solution.
 
