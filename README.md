@@ -1,7 +1,3 @@
-Based on the project description and workflow details, here’s a professional README file for your E-Learning Platform project:
-
----
-
 # E-Learning Platform with Adaptive Modules and Performance Tracking
 
 ## Overview
@@ -100,7 +96,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **MongoDB** for flexible data storage.
 - **JWT and bcrypt** for secure authentication.
 - **Python** for building the recommendation engine.
-
----
-
-This README file is designed to clearly present the project’s purpose, features, technology stack, and installation process in a professional format, making it easy for other developers and users to understand and contribute.
