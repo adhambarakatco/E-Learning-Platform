@@ -1,4 +1,4 @@
-# E-Learning Platform with Adaptive Modules and Performance Tracking
+# Alpine E-Learning Platform with Adaptive Modules and Performance Tracking
 
 ## Some images of the frontend of the website:
 
